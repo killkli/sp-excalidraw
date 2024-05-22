@@ -1,0 +1,2 @@
+#!/bin/sh
+yarn eslint ./src ./excalidraw-app --fix
